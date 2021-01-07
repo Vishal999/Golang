@@ -1,4 +1,4 @@
-# Interface
+# Methods
 
 #### Methods and Indirection
 
