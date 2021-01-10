@@ -1,4 +1,5 @@
-//Sample program that uses pointer receivers.package main
+//Sample program that uses pointer receivers.
+
 //Methods with pointer receivers can modify the value to which the receiver points.
 //Since methods often need to modify their receiver, pointer receivers are more common than
 //value receivers.

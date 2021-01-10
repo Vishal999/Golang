@@ -4,6 +4,10 @@ These examples walk you through implementations of generics in GO.
 
 To read full design draft : [Design Draft](https://go.googlesource.com/proposal/+/refs/heads/master/design/go2draft-type-parameters.md)
 
+There is a [go2go](https://go2goplay.golang.org/) playground that will allow you to experiment with the current proposal. 
+
+You can find links to [go2go](https://go2goplay.golang.org/) for each example respectively.
+
 ## Very High Level Overview :
 
 This section explains the changes suggested by the design draft very briefly. This section is intended for people who are already familiar with how generics would work in a language like Go. These concepts will be explained in detail in the following sections.
