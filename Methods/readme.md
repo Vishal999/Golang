@@ -1,5 +1,7 @@
 # Methods
 
+Methods provide a way to add behavior to user-defined types.
+
 #### Methods and Indirection
 
 Method with value/pointer receivers take either a value or a pointer as the receiver when they are called while a function that takes a value argument must take a value of that specific type and same is true for pointer as well.
